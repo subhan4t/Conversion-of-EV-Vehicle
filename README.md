@@ -57,6 +57,14 @@ Where:
 \[ P = F_{total} \times v \]
 \[ P = 172.25 \times 6.94 = 1195.41 \text{ W} \text{ or 1.2 kW} \]
 
+## Result
+![WhatsApp Image 2024-08-14 at 14 34 47_c92f570c](https://github.com/user-attachments/assets/f4eedca0-721c-4d3d-91f2-e93df6f0e892)
+
+![WhatsApp Image 2024-08-14 at 14 34 50_2460c76d](https://github.com/user-attachments/assets/0ff58e21-6e0c-4395-bd0c-a77c388a4fef)
+
+![maruti800sideview](https://github.com/user-attachments/assets/fa75e60d-ea10-427a-9e3e-35746d92fee9)
+
+
 ### Conclusion
 
 The calculated power requirement is approximately 1.2 kW, which is well within the 2 kW motor capacity, ensuring efficient operation under the given conditions.
