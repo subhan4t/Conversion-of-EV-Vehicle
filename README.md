@@ -82,6 +82,4 @@ The calculated power requirement is approximately 1.2 kW, which is well within t
 
 This project was completed as part of a group of 50 students under the guidance and supervision of our professors. Special thanks to Dr. Saravanan M.P. and Dr. A. Thamarai Selvan for their support and mentorship throughout the project.
 
-## License
-
 
