@@ -15,7 +15,7 @@ This project involves converting a Maruti 800 into an electric vehicle (EV) as p
 
 ## Role and Responsibilities
 
-As part of a team of 50 students, my specific roles included:
+As part of a team of 20 students, my specific roles included:
 
 - **Motor Selection:** Calculated that a 2 kW motor was required to meet the power demands of the car, considering the total weight of 1500 kg and a target speed of 25 km/h.
 - **Transmission System:** Selected and integrated a suitable transmission system to work efficiently with the chosen BLDC motor.
